@@ -143,7 +143,3 @@ python app_index.py
 2. **Order History**: Enable users to view past orders.
 3. **Admin Panel**: Provide an interface for admins to manage items and view analytics.
 4. **Advanced Visualizations**: Use Power BI or another visualization tool to analyze sales and customer data.
-=======
-# PycharmProjects
-Personal Projects
->>>>>>> 3c5d7638f8cfd586931aaa90e4a1f47484781c26
