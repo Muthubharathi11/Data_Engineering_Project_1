@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # OrderSphere - Efficient Food Ordering Platform
 
 ## Overview
